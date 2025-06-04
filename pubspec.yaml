@@ -4,8 +4,8 @@ version: 7.0.1
 homepage: https://github.com/4Q-s-r-o/ota_update
 
 environment:
-  sdk: '>=3.7.0 <4.0.0'
-  flutter: ">=2.29.0"
+  sdk: '>=3.6.0 <4.0.0'
+  flutter: ">=2.27.0"
 
 dependencies:
   flutter:

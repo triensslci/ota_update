@@ -10,7 +10,7 @@ description: Demonstrates how to use the ota_update plugin.
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.7.0 <4.0.0'
+  sdk: '>=3.6.0 <4.0.0'
 
 dependencies:
   flutter:
